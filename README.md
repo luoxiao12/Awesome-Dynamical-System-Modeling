@@ -1,10 +1,10 @@
 # Awesome-Dynamical-System-Modeling
 
+This review explores the recent advancements in dynamical system modeling.
+
 <img src="./image/arch.jpg" width="96%" height="96%">
 
 <img src="./image/data.jpg" width="96%" height="96%">
-
-This review explores the recent advancements in dynamical system modeling.
 
 <font size=10><center><b> Awesome-Dynamical-System-Modeling </b> </center></font>
 
