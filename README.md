@@ -8,7 +8,7 @@
 
 This review explores the recent advancements in dynamical system modeling.
 
-<font size=6><center><b> Awesome-AI4CFD </b> </center></font>
+<font size=10><center><b> Awesome-Dynamical-System-Modeling </b> </center></font>
 
 - [Awesome-Dynamical-System-Modeling](#awesome-ai4cfd)
   - [Datasets](#datasets)
