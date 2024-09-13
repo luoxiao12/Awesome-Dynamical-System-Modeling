@@ -2,7 +2,9 @@
 
 # Awesome-AI4CFD
 
-<img src="./images/main.png" width="96%" height="96%">
+<img src="./image/arch.jpg" width="96%" height="96%">
+
+<img src="./image/data.jpg" width="96%" height="96%">
 
 This review explores the recent advancements in dynamical system modeling.
 
